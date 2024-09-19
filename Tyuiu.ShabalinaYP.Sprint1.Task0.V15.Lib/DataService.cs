@@ -1,6 +1,6 @@
 ﻿namespace Tyuiu.ShabalinaYP.Sprint1.Task0.V15.Lib
 {
-    public class Class1
+    public class DataService
     {
 
     }
