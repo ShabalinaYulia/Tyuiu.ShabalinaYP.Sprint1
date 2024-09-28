@@ -7,7 +7,7 @@ namespace Tyuiu.ShabalinaYP.Sprint1.Task1.V25.Lib
 
         {
 
-            return Math.Round((x * y) / (1 + x));
+            return Math.Round((x * y) / (1 + x), 2);
 
         }
 
