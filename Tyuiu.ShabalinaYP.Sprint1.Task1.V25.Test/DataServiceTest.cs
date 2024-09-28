@@ -20,7 +20,7 @@ namespace Tyuiu.ShabalinaYP.Sprint1.Task1.V25.Test
 
             var res = ds.Calculate(x, y);
 
-            Assert.AreEqual(1,33, res);
+            Assert.AreEqual(1.33, res);
 
         }
 
