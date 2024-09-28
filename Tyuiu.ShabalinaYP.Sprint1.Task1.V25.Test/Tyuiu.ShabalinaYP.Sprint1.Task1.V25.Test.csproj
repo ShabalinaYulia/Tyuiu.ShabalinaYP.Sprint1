@@ -17,13 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.ShabalinaYP.Sprint1.Task1.Lib\Tyuiu.ShabalinaYP.Sprint1.Task1.V25.Lib.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Reference Include="tyuiu.cources.programming.interfaces">
-      <HintPath>..\tyuiu.cources.programming.interfaces.dll</HintPath>
-    </Reference>
+    <ProjectReference Include="..\Tyuiu.ShabalinaYP.Sprint1.Task1.V25.Lib\Tyuiu.ShabalinaYP.Sprint1.Task1.V25.Lib.csproj" />
   </ItemGroup>
 
   <ItemGroup>
