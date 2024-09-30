@@ -15,9 +15,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{756AC028
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.ShabalinaYP.Sprint1.Task1.V25", "Tyuiu.ShabalinaYP.Sprint1.Task1.V25\Tyuiu.ShabalinaYP.Sprint1.Task1.V25.csproj", "{2D6548E7-DFEF-475E-B717-125B399A3F2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShabalinaYP.Sprint1.Task1.V25.Lib", "Tyuiu.ShabalinaYP.Sprint1.Task1.V25.Lib\Tyuiu.ShabalinaYP.Sprint1.Task1.V25.Lib.csproj", "{55DA42AA-BDD4-4BC1-BD02-5317224545DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.ShabalinaYP.Sprint1.Task1.V25.Lib", "Tyuiu.ShabalinaYP.Sprint1.Task1.V25.Lib\Tyuiu.ShabalinaYP.Sprint1.Task1.V25.Lib.csproj", "{55DA42AA-BDD4-4BC1-BD02-5317224545DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShabalinaYP.Sprint1.Task1.V25.Test", "Tyuiu.ShabalinaYP.Sprint1.Task1.V25.Test\Tyuiu.ShabalinaYP.Sprint1.Task1.V25.Test.csproj", "{A105C603-5844-452C-B078-0DDB81411CC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.ShabalinaYP.Sprint1.Task1.V25.Test", "Tyuiu.ShabalinaYP.Sprint1.Task1.V25.Test\Tyuiu.ShabalinaYP.Sprint1.Task1.V25.Test.csproj", "{A105C603-5844-452C-B078-0DDB81411CC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{C1B48C7E-442E-4086-80B1-FEDF4EA736D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShabalinaYP.Sprint1.Task2.V12", "Tyuiu.ShabalinaYP.Sprint1.Task2.V12\Tyuiu.ShabalinaYP.Sprint1.Task2.V12.csproj", "{D960929D-068C-4895-87DA-317803419A30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShabalinaYP.Sprint1.Task2.V12.Lib", "Tyuiu.ShabalinaYP.Sprint1.Task2.V12.Lib\Tyuiu.ShabalinaYP.Sprint1.Task2.V12.Lib.csproj", "{35CB6406-9E6A-4A8E-887C-7E21789EE619}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShabalinaYP.Sprint1.Task2.V12.Test", "Tyuiu.ShabalinaYP.Sprint1.Task2.V12.Test\Tyuiu.ShabalinaYP.Sprint1.Task2.V12.Test.csproj", "{AD65CD0C-AB64-4493-AE45-677892A9045E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +57,18 @@ Global
 		{A105C603-5844-452C-B078-0DDB81411CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A105C603-5844-452C-B078-0DDB81411CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A105C603-5844-452C-B078-0DDB81411CC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D960929D-068C-4895-87DA-317803419A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D960929D-068C-4895-87DA-317803419A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D960929D-068C-4895-87DA-317803419A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D960929D-068C-4895-87DA-317803419A30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35CB6406-9E6A-4A8E-887C-7E21789EE619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CB6406-9E6A-4A8E-887C-7E21789EE619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CB6406-9E6A-4A8E-887C-7E21789EE619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CB6406-9E6A-4A8E-887C-7E21789EE619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD65CD0C-AB64-4493-AE45-677892A9045E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD65CD0C-AB64-4493-AE45-677892A9045E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD65CD0C-AB64-4493-AE45-677892A9045E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD65CD0C-AB64-4493-AE45-677892A9045E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,6 +80,9 @@ Global
 		{2D6548E7-DFEF-475E-B717-125B399A3F2E} = {756AC028-0AC5-4B98-AB13-5D2634B17779}
 		{55DA42AA-BDD4-4BC1-BD02-5317224545DA} = {756AC028-0AC5-4B98-AB13-5D2634B17779}
 		{A105C603-5844-452C-B078-0DDB81411CC7} = {756AC028-0AC5-4B98-AB13-5D2634B17779}
+		{D960929D-068C-4895-87DA-317803419A30} = {C1B48C7E-442E-4086-80B1-FEDF4EA736D5}
+		{35CB6406-9E6A-4A8E-887C-7E21789EE619} = {C1B48C7E-442E-4086-80B1-FEDF4EA736D5}
+		{AD65CD0C-AB64-4493-AE45-677892A9045E} = {C1B48C7E-442E-4086-80B1-FEDF4EA736D5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2943289E-DBF2-40FC-AA5E-362A9B82E48C}
