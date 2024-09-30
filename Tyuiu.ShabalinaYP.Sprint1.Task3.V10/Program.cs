@@ -20,7 +20,7 @@ namespace Tyuiu.ShabalinaYP.Sprint1.Task3.V10
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine(x + " руб. " + "- " + "это " + Math.Floor(x) + "руб. " + ds.NumberToMoney(x) + " коп.");
+            Console.WriteLine(ds.NumberToMoney(x));
             Console.ReadLine();
         }
     }
