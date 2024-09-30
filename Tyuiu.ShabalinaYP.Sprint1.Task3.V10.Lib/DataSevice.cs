@@ -8,8 +8,8 @@ namespace Tyuiu.ShabalinaYP.Sprint1.Task3.V10.Lib
             double r;
             r = Math.Floor(number);
             double k;
-            k = Math.Round((number - Math.Floor(number)) * 100);
-            return k;
+            k = Math.Round((number - Math.Floor(number)));
+            return Math.Round(r + k, 3);
 
         }
     }
