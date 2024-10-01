@@ -12,7 +12,7 @@ namespace Tyuiu.ShabalinaYP.Sprint1.Task3.V10.Test
             double x = 23.6;
             var res = ds.NumberToMoney(x);
             double a = 60;
-            Assert.AreEqual(a, res);
+            Assert.AreEqual(x, res);
         }
     }
 }
